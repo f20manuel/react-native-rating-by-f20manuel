@@ -22,5 +22,27 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "name": "f20manuel-react-native-rating",
+  "description": "Install the package using yarn or npm:",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f20manuel/react-native-rating-by-f20manuel.git"
+  },
+  "keywords": [
+    "rating",
+    "react",
+    "native",
+    "react",
+    "native",
+    "react",
+    "native",
+    "rating"
+  ],
+  "author": "Manuel Fernández (f20manuel)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f20manuel/react-native-rating-by-f20manuel/issues"
+  },
+  "homepage": "https://github.com/f20manuel/react-native-rating-by-f20manuel#readme"
 }
